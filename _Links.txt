@@ -1,0 +1,10 @@
+
+Github
+https://github.com/vickykr1998/coaching/blob/master/coaching.CPP
+
+Indexing
+https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/IndexIntro.html
+
+File Organization
+https://www.cs.uct.ac.za/mit_notes/database/htmls/chp11.html
+
