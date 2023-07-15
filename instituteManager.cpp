@@ -1,6 +1,4 @@
-
 //COACHING INSTITUTE MANAGEMENT SYSTEM
-
 
 //Header Files
 #include <iostream>
